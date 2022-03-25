@@ -3,8 +3,6 @@
 
 # How Quorum Sensing Interactions Affect Microbial Population Structures
 
-__Authors:__ Sid, Neel, Evan, Sarah, Deepika
-
 ## TODO
 
 - [x] We implement the model described in @eldar_2011
